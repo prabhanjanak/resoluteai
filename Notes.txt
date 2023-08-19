@@ -1,0 +1,14 @@
+Day 4:
+1.Image Classify.pynb In google colab
+2.ARIMA
+	->Used for time series forecasting
+	->Make us of past values or lag errors for predicting the futuere AR+I+MA
+
+*Arima Explained:
+AR Model
+I-Intergrated
+MA-Moving Average
+3.Auto correlation and Partial Autocorrelation
+4.Jupyter ARIMA
+5.
+ 
